@@ -1,1 +1,1 @@
-# Activity-recognition-case-study
+# Human Activity Recognition case-study
