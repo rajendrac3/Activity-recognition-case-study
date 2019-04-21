@@ -1,6 +1,4 @@
 *.txt
 *.csv
 *.DS_Store
-*_DS_Store
-__MACOSX
 UCI_HAR_Dataset
